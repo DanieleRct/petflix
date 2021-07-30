@@ -1,0 +1,1 @@
+Projeto da digital one do bootcamp de html web developer, onde foi a página da netflix foi repaginada. Criei o Petflix, onde reuno filmes, documentários, séries em que os protagonistas são animais.
